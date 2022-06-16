@@ -1,7 +1,7 @@
 # Olá, me chamo Vitória
 
 ✨- Atualmente trabalho com front-end
-✨- Estudando Python 
+✨- Estudando HTML & CSS
 ✨- Contate-me no email: contatovitoriacanon@gmail.com
 
 <div align="center">
