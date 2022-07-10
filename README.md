@@ -1,6 +1,6 @@
 # Olá, me chamo Vitória
 
-✨- Atualmente trabalho como fullstack
+✨- Atualmente trabalho com back-end
 ✨- Estudando HTML & CSS
 ✨- Contate-me no email: contatovitoriacanon@gmail.com
 
