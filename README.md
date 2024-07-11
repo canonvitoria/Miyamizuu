@@ -5,7 +5,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=canonvitoria&bg_color=0d1117&color=A67B56&line=40301C&point=A67B56&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
-    <img  width="20%" src="https://cdn-icons-png.flaticon.com/512/4856/4856718.png" /> 
+    <img  width="10%" src="https://cdn-icons-png.flaticon.com/512/4856/4856718.png" /> 
 </div>
 
 <div align="center"> 
